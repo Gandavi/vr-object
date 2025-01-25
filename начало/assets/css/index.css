@@ -1,0 +1,18 @@
+.card{
+    width:90% ;
+}
+.btn-t{
+    background-color:rgb(197, 194, 191) ;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius:10% ;
+    color: black;
+}
+.btn-t:hover{
+    background-color:rgb(127, 123, 117) ;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius:10% ;
+    color: black;
+}
+.modal1{
+    width: 370px;
+}
